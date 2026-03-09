@@ -2,26 +2,31 @@
   {
     "q": "Çalışma saatleri nedir?",
     "a": "Hafta içi 08:30–18:00. Servis ve yemek vardır.",
-    "tags": [
-      "çalışma saatleri",
-      "servis",
-      "yemek"
-    ]
+    "tags": ["çalışma saatleri", "servis", "yemek"]
   },
   {
     "q": "Staj başvurusu ne zaman?",
-    "a": "Yaz stajları Nisan–Mayıs döneminde açılır. Başvuru: https://beta-enerji.com/staj",
-    "tags": [
-      "staj",
-      "başvuru"
-    ]
+    "a": "Yaz stajları Nisan–Mayıs döneminde açılır. Başvuru için web sitemizi ziyaret edebilirsiniz.",
+    "tags": ["staj", "başvuru"]
+  },
+  {
+    "q": "Staj yapma imkanımız var mı?",
+    "a": "Evet her yaz stajyer alımlarımız oluyor. Başvuruları genellikle Nisan ayında web sitemiz üzerinden alıyoruz.",
+    "tags": ["staj", "yaz stajı", "stajyer"]
   },
   {
     "q": "Açık pozisyonları nerede görebilirim?",
-    "a": "Güncel ilanlar: https://beta-enerji.com/kariyer",
-    "tags": [
-      "ilan",
-      "kariyer"
-    ]
+    "a": "Güncel ilanlar için web sitemizi ziyaret edebilir, sosyal medya hesaplarımızdan bizi takip edebilirsiniz.",
+    "tags": ["ilan", "kariyer"]
+  },
+  {
+    "q": "Yeni mezun olarak nasıl işe girebilirim?",
+    "a": "Beta Enerji olarak genç ve dinamik bir kadroya sahibiz. Yeni mezun adaylarımızla sık sık tanışma görüşmeleri yapıyoruz. Uygun bir pozisyon ile hedefleriniz paralel ise değerlendirme süreci başlıyor.",
+    "tags": ["yeni mezun", "işe alım", "mezun"]
+  },
+  {
+    "q": "Başvurdum süreç nasıl ilerliyor?",
+    "a": "Ön değerlendirmeden sonra tanışma görüşmesi gerçekleşiyor. Uygun görülürseniz yöneticinizle teknik görüşme yapıyorsunuz. Süreç boyunca mail ve telefonla şeffaf iletişim halindeyiz.",
+    "tags": ["süreç", "işe alım", "başvuru"]
   }
 ]

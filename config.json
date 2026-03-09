@@ -6,9 +6,9 @@
     "contact": "https://betaenerji.com/iletisim"
   },
   "whitelist": [
-    "^https?:\\/\\/(www\\.)?betaenerji\\.com",
-    "^https?:\\/\\/kariyer\\.betaenerji\\.com"
-  ],
+  "^https?:\\/\\/(www\\.)?betaenerji\\.com(\\/.*)?$",
+  "^https?:\\/\\/kariyer\\.betaenerji\\.com(\\/.*)?$"
+],
    "facts": {
     "facility_size_m2": "63.680 m²",                                  
     "campus_total_area_m2": "120.000 m²",                             
